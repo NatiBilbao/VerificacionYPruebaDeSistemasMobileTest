@@ -9,7 +9,7 @@ import tarea17.activities.HomeActivity;
 import tarea17.activities.UpdateTaskActivity;
 import tarea17.session.Session;
 
-public class CreateUpdateDeleteTaskTest {
+public class CrearActualizarEliminarTareaTest {
     private HomeActivity homeActivity = new HomeActivity();
     private CreateTaskActivity createTaskActivity = new CreateTaskActivity();
     private UpdateTaskActivity updateTaskActivity = new UpdateTaskActivity();
